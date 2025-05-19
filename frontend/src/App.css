@@ -398,7 +398,7 @@ nav svg {
     padding: 30px 20px;
   }
   .about .container {
-    min-width:fit-content;
+    min-width: fit-content;
   }
 }
 @media (max-width: 1050px) {
